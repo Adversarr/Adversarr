@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on [ACG](https://github.com/Adversarr/ACG), a Graphics Toolbox for study use.
+- 🌱 I'm currently learning on Phsyical Simulation, especially Fluid Simulation.
+
+
+[![Adversarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversarr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Adversarr/Adversarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
