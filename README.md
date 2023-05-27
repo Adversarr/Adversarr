@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on [ACG](https://github.com/Adversarr/ACG), a Graphics Toolbox for study use.
+- 🔭 I'm currently working on [axes](https://github.com/Adversarr/axes), a Graphics Toolbox for study use.
 - 🌱 I'm currently learning on Phsyical Simulation, especially Fluid Simulation.
 
 
