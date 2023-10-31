@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on [axes](https://github.com/Adversarr/axes), a Graphics Toolbox for study use.
-- 🌱 I'm currently learning on Phsyical Simulation, especially Fluid Simulation.
+- 🔭 I'm currently working on [axes](https://github.com/Adversarr/axes), an all-in-one toolbox for physical simulation and its visulization.
+- 🌱 I'm currently learning on [Phsyical Simulation](https://adversarr.github.io/ps), especially Fluid Simulation.
 
 
 [![Adversarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversarr)](https://github.com/Adversarr/ACG)
