@@ -6,6 +6,9 @@
 
 [![Adversarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversarr)](https://github.com/Adversarr/ACG)
 
+```base64
+V29yc2hpcCBtZXRpY3Vsb3VzbHkgcGxhbm5lZCBpcyBmcmFnaWxlLCBidXQgd2hvbGVoZWFydGVkIGFkbWlyYXRpb24gaXMgdW5icmVha2FibGUu
+```
 
 <!--
 **Adversarr/Adversarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
