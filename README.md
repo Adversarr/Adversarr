@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on [mathprim](https://github.com/Adversarr/mathprim). It's a experimental toolbox for high performance linear algebra.
-- 🌱 My current research focuses on: ML for PDE, Physical Simulation, and Computer Graphics.
-- 📫 How to reach me: Find me on [Bilibili](https://space.bilibili.com/23345520) or [Zhihu](https://www.zhihu.com/people/adversarr), Contact me via email `zherui_yang@mail.ustc.edu.cn`.
+- 🔭 I'm currently working on [mathprim](https://github.com/Adversarr/mathprim).
+- 🌱 My current research focuses on: Computer Graphics, Geometric Computing and Numerical Optimization
+- 📫 How to reach me: Contact me via email `zherui_yang@mail.ustc.edu.cn`.
+<!-- -  Find me on [Bilibili](https://space.bilibili.com/23345520) or [Zhihu](https://www.zhihu.com/people/adversarr),  -->
 
 
 [![Adversarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversarr)](https://github.com/Adversarr/ACG)
