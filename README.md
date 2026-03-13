@@ -1,24 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I'm currently working on [mathprim](https://github.com/Adversarr/mathprim).
-- 🌱 My current research focuses on: Computer Graphics, Geometric Computing and Numerical Optimization
-- 📫 How to reach me: Contact me via email `zherui_yang@mail.ustc.edu.cn`.
-<!-- -  Find me on [Bilibili](https://space.bilibili.com/23345520) or [Zhihu](https://www.zhihu.com/people/adversarr),  -->
+- 🌱 My current research focuses on: AI for Computer Graphics, especially AI for accelerating geometric computing and numerical solvers.
+- 📫 How to reach me: Contact me via email `zherui_yang@mail.ustc.edu.cn`. [Zhihu](https://www.zhihu.com/people/adversarr)
 
+### Research 
 
-[![Adversarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversarr)](https://github.com/Adversarr/ACG)
+1. "Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs" (NeurIPS 2025): [code](https://github.com/Adversarr/LearningSparsePreconditioner4GPU) It explores the possibility that GNNs learn to improve & accelerates Sparse Approximate Inverse (SPAI) preconditioners, with practical wall-clock acceleration and GNN-SPAI architectural alignment.
+2. (... coming soon)
 
+### OSS Works
 
-<!--
-**Adversarr/Adversarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [mathprim](https://github.com/Adversarr/mathprim): tiny header-only tensor library, along with many optimization/solver implementations (Cholesky, ICPCG, L-BFGS, and more).
+2. [ssim](https://github.com/Adversarr/ssim): tiny & simple simulator, built on mathprim. Reach out my zhihu [blog](https://zhuanlan.zhihu.com/p/722554540) to see how fast it is!
+3. [tinygs](https://github.com/Adversarr/tinygs): Blazing fast 3D Gaussian Splatting (3DGS) implementation, pure C++/CUDA, with async dataloading, tile-based rendering, and highly optimized CUDA rendering kernels.
