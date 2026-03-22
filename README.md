@@ -2,6 +2,7 @@
 
 - 🌱 My current research focuses on: AI for Computer Graphics, especially AI for accelerating geometric computing and numerical solvers.
 - 📫 How to reach me: Contact me via email `zherui_yang@mail.ustc.edu.cn`. [Zhihu](https://www.zhihu.com/people/adversarr)
+- 🚀 I'm working on [gsx](https://github.com/Adversarr/gsx), an efficient, multiplatform 3DGS rendering/training library.
 
 ### Research 
 
