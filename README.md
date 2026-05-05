@@ -7,7 +7,8 @@
 ### Research 
 
 1. "Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs" (NeurIPS 2025): [code](https://github.com/Adversarr/LearningSparsePreconditioner4GPU) It explores the possibility that GNNs learn to improve & accelerates Sparse Approximate Inverse (SPAI) preconditioners, with practical wall-clock acceleration and GNN-SPAI architectural alignment.
-2. (... coming soon)
+2. "Learning Laplacian Eigenspace with Mass-Aware Neural Operators on Point Clouds" (SIGGRAPH 2026 Conference): [code](https://github.com/Adversarr/NEO) It use neural operator to learn the eigen-space of Laplacian operator (which defines "Fourier modes" on manifolds), achieving high efficiency while maintaining accuracy and robustness.
+3. "Simple yet Effective: Low-Rank Spatial Attention for Neural Operators" (ICML 2026): [code](https://github.com/Adversarr/LRSA-Operator) By analyzing SOTA neural operators, we propose a simple attention block that removes inductive bias and improves overall performance.
 
 ### OSS Works
 
